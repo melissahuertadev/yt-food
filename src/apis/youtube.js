@@ -7,7 +7,7 @@ export default create({
     params: {
         part: 'snippet',
         type: 'video',
-        maxResults: 10,
+        maxResults: 15,
         topicId: '/m/02wbm',
         key: KEY,
     },
