@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/piratelicorne/yt-food/static/css/main.42f09da5.chunk.css",
+    "main.js": "/piratelicorne/yt-food/static/js/main.68b92c41.chunk.js",
+    "main.js.map": "/piratelicorne/yt-food/static/js/main.68b92c41.chunk.js.map",
+    "runtime-main.js": "/piratelicorne/yt-food/static/js/runtime-main.15caa63a.js",
+    "runtime-main.js.map": "/piratelicorne/yt-food/static/js/runtime-main.15caa63a.js.map",
+    "static/js/2.71f9aecc.chunk.js": "/piratelicorne/yt-food/static/js/2.71f9aecc.chunk.js",
+    "static/js/2.71f9aecc.chunk.js.map": "/piratelicorne/yt-food/static/js/2.71f9aecc.chunk.js.map",
+    "static/js/3.5da878f0.chunk.js": "/piratelicorne/yt-food/static/js/3.5da878f0.chunk.js",
+    "static/js/3.5da878f0.chunk.js.map": "/piratelicorne/yt-food/static/js/3.5da878f0.chunk.js.map",
+    "index.html": "/piratelicorne/yt-food/index.html",
+    "static/css/main.42f09da5.chunk.css.map": "/piratelicorne/yt-food/static/css/main.42f09da5.chunk.css.map",
+    "static/js/2.71f9aecc.chunk.js.LICENSE.txt": "/piratelicorne/yt-food/static/js/2.71f9aecc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.15caa63a.js",
+    "static/js/2.71f9aecc.chunk.js",
+    "static/css/main.42f09da5.chunk.css",
+    "static/js/main.68b92c41.chunk.js"
+  ]
+}
